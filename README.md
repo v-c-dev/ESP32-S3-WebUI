@@ -21,4 +21,4 @@ This project's goal is to create a WebUI and remote access for the ESP32-S3, thi
 
 ----
 ### TODO
-Install LittleFS and have WebUI on separate files
+- Install LittleFS and have WebUI on separate files
